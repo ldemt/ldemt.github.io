@@ -1,4 +1,4 @@
-# leodemont.github.io
+# Léo Demont
 
 Welcome to my personal webpage.
 
